@@ -1,4 +1,4 @@
-﻿$content = Get-Content "path to NDJSON file goes her"
+﻿$content = Get-Content "path to NDJSON file goes here"
 
 foreach ($data in $content){
 
